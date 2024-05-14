@@ -1,0 +1,6 @@
+test_my_agent_depois_entrega.py
+venv
+__pycache__
+.pytest_cache
+
+

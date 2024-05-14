@@ -1,0 +1,12 @@
+gymnasium
+gym-simplegrid
+aigyminsper
+pytest
+pandas
+ipykernel
+seaborn
+matplotlib
+aigyminsper
+numpy
+
+
